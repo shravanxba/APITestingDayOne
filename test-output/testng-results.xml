@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1782" started-at="2021-10-08T09:52:25Z" finished-at="2021-10-08T09:52:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1782" started-at="2021-10-08T09:52:25Z" finished-at="2021-10-08T09:52:27Z">
+      <class name="com.lti.day2.GitHubTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.lti.day2.GitHubTest@6dbb137d]" name="beforeTest" is-config="true" duration-ms="326" started-at="2021-10-08T09:52:25Z" finished-at="2021-10-08T09:52:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="gettingAllRepositories()[pri:0, instance:com.lti.day2.GitHubTest@6dbb137d]" name="gettingAllRepositories" duration-ms="1442" started-at="2021-10-08T09:52:25Z" description="Getting all the repositories" finished-at="2021-10-08T09:52:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gettingAllRepositories -->
+      </class> <!-- com.lti.day2.GitHubTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
