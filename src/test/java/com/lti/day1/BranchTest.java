@@ -11,4 +11,8 @@ public class BranchTest {
   public void branchTwo() {
 	  System.out.println("Hello new branch! A new method has been added.");
   }
+  @Test
+  public void branchThree() {
+	  System.out.println("Hello new branch!This will remain in staging branch");
+  }
 }
